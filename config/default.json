@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "aver studing mern",
+  "mongoUrl": "mongodb+srv://aver:SykaBlad1999@cluster0.6jfcc.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
